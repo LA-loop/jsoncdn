@@ -1,0 +1,36 @@
+{
+    "Size":3,
+    "Allstar1":
+    {
+    	"Title":"佛学50讲",
+    	"Author":"熊逸",
+    	"Actor":"熊逸",
+    	"Url":"storycdn/XueXiFloder/XiongYi_FoXue50Jiang",
+    	"Size":54,
+    	"Image":"allstar4.png",
+        "MD5":"E1BFCC952696D4130170A577007F6817",
+        "Type":"book"
+    },
+    "Allstar2":
+    {
+    	"Title":"人生算法",
+    	"Author":"老喻",
+    	"Actor":"老喻",
+    	"Url":"storycdn/XueXiFloder/LaoYu_RenShengSuanFa",
+    	"Size":31,
+    	"Image":"allstar5.png",
+        "MD5":"F2F79D537625D49B8D771DB4FF53122D",
+        "Type":"book"
+    },
+    "Allstar3":
+    {
+		"Title":"增长思维",
+    	"Author":"梁宁",
+    	"Actor":"梁宁",
+    	"Url":"storycdn/XueXiFloder/LiangNing_ZengZhangSiWei",
+    	"Size":31,
+    	"Image":"allstar6.png",
+        "MD5":"3E5F2AA0EEDDAC546CA73FB4DB9A637D",
+        "Type":"book"
+    }
+}
