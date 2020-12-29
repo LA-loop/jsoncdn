@@ -1,5 +1,16 @@
 {
-    "Size":49,
+    "Size":50,
+    "XueXi50":
+    {
+        "Title":"政治学通识30讲",
+        "Author":"包刚升",
+        "Actor":"包刚升",
+        "Url":"storycdn/XueXiFloder/BaoGangSheng_ZhengZhiXueTongShi30Jiang",
+        "Size":31,
+        "Image":"xuexi50.png",
+        "MD5":"F8ACA231BF1498DA88C2320BD9B94DDA",
+        "Data":"2020-12-29"
+    },
     "XueXi49":
     {
         "Title":"文明地标30讲",
