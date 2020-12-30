@@ -1,5 +1,16 @@
 {
-    "Size":51,
+    "Size":52,
+    "XueXi52":
+    {
+        "Title":"个人投资课",
+        "Author":"张潇雨",
+        "Actor":"张潇雨",
+        "Url":"storycdn/XueXiFloder/ZhangXiaoYu_GeRenTouZiKe",
+        "Size":58,
+        "Image":"xuexi52.png",
+        "MD5":"BCA625CB9B9FA07C6EE538579EA0ED8C",
+        "Data":"2020-12-30"
+    },
     "XueXi51":
     {
         "Title":"社会网络课",
