@@ -1,5 +1,16 @@
 {
-    "Size":53,
+    "Size":54,
+    "XueXi54":
+    {
+        "Title":"信息论40讲",
+        "Author":"吴军",
+        "Actor":"吴军",
+        "Url":"storycdn2021/XueXiFloder/WuJun_XinXiLun40Jiang",
+        "Size":45,
+        "Image":"xuexi54.png",
+        "MD5":"50F995B4CDADB92AE40F05CCE1F700EE",
+        "Data":"2021-1-5"
+    },
     "XueXi53":
     {
         "Title":"基因科学课",
