@@ -1,5 +1,16 @@
 {
-    "Size":54,
+    "Size":55,
+    "XueXi55":
+    {
+        "Title":"化学通识",
+        "Author":"孙亚飞",
+        "Actor":"孙亚飞",
+        "Url":"storycdn2021/XueXiFloder/SunYaFei_HuaXueTongShi",
+        "Size":32,
+        "Image":"xuexi55.png",
+        "MD5":"5D7F88ECF47A6E6A17FDF75CDA99C2BD",
+        "Data":"2021-1-5"
+    },
     "XueXi54":
     {
         "Title":"信息论40讲",
