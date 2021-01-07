@@ -1,5 +1,16 @@
 {
-    "Size":59,
+    "Size":60,
+    "XueXi60":
+    {
+        "Title":"国际政治学",
+        "Author":"施展",
+        "Actor":"施展",
+        "Url":"storycdn2021/XueXiFloder/ShiZhan_GuoJiZhengZhiXue",
+        "Size":42,
+        "Image":"xuexi60.png",
+        "MD5":"3603E6057380F55088A8AF070CFEE361",
+        "Data":"2021-1-7"
+    },
     "XueXi59":
     {
         "Title":"中国文化30讲",
