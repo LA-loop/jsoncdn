@@ -1,5 +1,16 @@
 {
-    "Size":63,
+    "Size":64,
+    "XueXi64":
+    {
+        "Title":"伦理学通识",
+        "Author":"刘玮",
+        "Actor":"刘玮",
+        "Url":"storycdn2021/XueXiFloder/LiuWei_LunLiXueTongShi",
+        "Size":22,
+        "Image":"xuexi64.png",
+        "MD5":"56A1F14C7091E5DD4A20DA9CC3486C13",
+        "Data":"2021-1-8"
+    },
     "XueXi63":
     {
         "Title":"公司治理",
