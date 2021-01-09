@@ -1,5 +1,16 @@
 {
-    "Size":30,
+    "Size":31,
+    "Book31":
+    {
+        "Title":"仙逆",
+        "Author":"耳根",
+        "Actor":"丸子/冯宝宝",
+        "Url":"storycdn2021/BookFloder/ErGen_XianNi",
+        "Size":1868,
+        "Image":"book31.png",
+        "MD5":"42DB363C032854AC925CAA9F9A5CCBF9",
+        "Data":"2021-1-9"
+    },
     "Book30":
     {
         "Title":"包公案",
