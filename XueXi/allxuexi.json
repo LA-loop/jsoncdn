@@ -1,5 +1,16 @@
 {
-    "Size":65,
+    "Size":66,
+    "XueXi66":
+    {
+        "Title":"宏观经济学",
+        "Author":"何帆",
+        "Actor":"何帆",
+        "Url":"storycdn2021/XueXiFloder/HeFan_HongGuanJingJiXue",
+        "Size":33,
+        "Image":"xuexi66.png",
+        "MD5":"C3E43FBAF59893D08C927B86473C424B",
+        "Data":"2021-1-11"
+    },
     "XueXi65":
     {
         "Title":"跟熊浩学沟通",
