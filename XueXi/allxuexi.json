@@ -1,5 +1,16 @@
 {
-    "Size":64,
+    "Size":65,
+    "XueXi65":
+    {
+        "Title":"跟熊浩学沟通",
+        "Author":"熊浩",
+        "Actor":"熊浩",
+        "Url":"storycdn2021/XueXiFloder/XiongHao_XueGouTong",
+        "Size":31,
+        "Image":"xuexi65.png",
+        "MD5":"4753F18B78AC000FF55B9AAD46176A9C",
+        "Data":"2021-1-11"
+    },
     "XueXi64":
     {
         "Title":"伦理学通识",
