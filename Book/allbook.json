@@ -1,5 +1,16 @@
 {
-    "Size":31,
+    "Size":32,
+    "Book32":
+    {
+        "Title":"吞噬星空",
+        "Author":"我吃西红柿",
+        "Actor":"思刻",
+        "Url":"storycdn2021/BookFloder/WoChiXiHongShi_TunShiXingKong",
+        "Size":982,
+        "Image":"book32.png",
+        "MD5":"BECFE322DD6275FC407A53A07CA8D10B",
+        "Data":"2021-1-29"
+    },
     "Book31":
     {
         "Title":"仙逆",
