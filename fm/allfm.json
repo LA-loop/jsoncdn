@@ -6,6 +6,12 @@
     		"Url":"https://lhttp.qingting.fm/live/1005/64k.mp3?app_id=web",
     		"MD5":"B4E068F44EFEDD6E9AF889075D293A40"
     	},
+        {
+            "Title":"上海新闻广播",
+            "Image":"fm_10.png",
+            "Url":"https://lhttp.qingting.fm/live/270/64k.mp3?app_id=web",
+            "MD5":"3AD5F21781DEC5C0297C600469E5C484"
+        },
     	{
     		"Title":"CNR经济之声广播",
     		"Image":"fm_2.png",
