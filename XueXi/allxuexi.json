@@ -1,5 +1,16 @@
 {
-    "Size":85,
+    "Size":86,
+    "XueXi86":
+    {
+        "Title":"认知方法论",
+        "Author":"吴伯凡",
+        "Actor":"吴伯凡",
+        "Url":"storycdn2021/XueXiFloder/WuBoFan_RenZhiFangFaLun",
+        "Size":256,
+        "Image":"xuexi86.png",
+        "MD5":"34D087ECBC92E2A7CB1B255B3673D1AA",
+        "Data":"2021-2-22"
+    },
     "XueXi85":
     {
         "Title":"全球教育报告2020",
