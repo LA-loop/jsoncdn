@@ -1,5 +1,16 @@
 {
-    "Size":88,
+    "Size":89,
+    "XueXi89":
+    {
+        "Title":"阅读与写作50讲",
+        "Author":"吴军",
+        "Actor":"吴军",
+        "Url":"storycdn2021/XueXiFloder/WuJun_YueDuYuXieZuo50Jiang",
+        "Size":52,
+        "Image":"xuexi89.png",
+        "MD5":"965D91E330502A269340A7F0F38D4B9B",
+        "Data":"2021-3-5"
+    },
     "XueXi88":
     {
         "Title":"材料科学前沿报告(2020)",
