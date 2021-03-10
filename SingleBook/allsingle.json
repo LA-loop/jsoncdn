@@ -1,7 +1,12 @@
 {
-	"Size":1193,
+	"Size":1255,
     "singles":
   [
+    {"Title":"越读者","Url":"storycdn2021/SingleBook/1255.mp3","Data":"2021-3-10"},
+    {"Title":"弗洛伊德传","Url":"storycdn2021/SingleBook/1254.mp3","Data":"2021-3-10"},
+    {"Title":"太阳照常升起","Url":"storycdn2021/SingleBook/1253.mp3","Data":"2021-3-10"},
+    {"Title":"宅兹中国","Url":"storycdn2021/SingleBook/1252.mp3","Data":"2021-3-10"},
+    {"Title":"发现东亚","Url":"storycdn2021/SingleBook/1251.mp3","Data":"2021-3-10"},
     {"Title":"观看之道","Url":"storycdn2021/SingleBook/1250.mp3","Data":"2021-3-10"},
     {"Title":"苔丝","Url":"storycdn2021/SingleBook/1249.mp3","Data":"2021-3-10"},
     {"Title":"美味欺诈","Url":"storycdn2021/SingleBook/1248.mp3","Data":"2021-3-10"},
