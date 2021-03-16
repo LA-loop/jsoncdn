@@ -1,5 +1,16 @@
 {
-    "Size":90,
+    "Size":91,
+    "XueXi91":
+    {
+        "Title":"经济学课",
+        "Author":"薛兆丰",
+        "Actor":"薛兆丰",
+        "Url":"storycdn2021/XueXiFloder/XueZhaoFeng_JingJiXueKe",
+        "Size":278,
+        "Image":"xuexi91.png",
+        "MD5":"1C5E0DFE013A3F2B9103ACEAD2E7B641",
+        "Data":"2021-3-16"
+    },
     "XueXi90":
     {
         "Title":"商业经典案例",
