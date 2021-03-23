@@ -1,5 +1,16 @@
 {
-    "Size":95,
+    "Size":96,
+    "XueXi96":
+    {
+        "Title":"概率论",
+        "Author":"刘嘉",
+        "Actor":"刘嘉",
+        "Url":"storycdn2021/XueXiFloder/LiuJia_GaiLvLun",
+        "Size":23,
+        "Image":"xuexi96.png",
+        "MD5":"1289B4313EA79F7C21ADB47F38CED52E",
+        "Data":"2021-3-23"
+    },
     "XueXi95":
     {
         "Title":"大国简史·德国篇",
