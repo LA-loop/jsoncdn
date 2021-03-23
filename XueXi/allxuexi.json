@@ -1,5 +1,16 @@
 {
-    "Size":96,
+    "Size":97,
+    "XueXi97":
+    {
+        "Title":"中华帝国财政30讲",
+        "Author":"刘守刚",
+        "Actor":"刘守刚",
+        "Url":"storycdn2021/XueXiFloder/LiuShouGang_ZhongHuaDiGuoCaiZheng30Jiang",
+        "Size":31,
+        "Image":"xuexi97.png",
+        "MD5":"1FC25A08D7DAEF75BEB6BC97DD9F1AE0",
+        "Data":"2021-3-23"
+    },
     "XueXi96":
     {
         "Title":"概率论",
