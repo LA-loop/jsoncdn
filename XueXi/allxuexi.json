@@ -1,5 +1,16 @@
 {
-    "Size":99,
+    "Size":100,
+    "XueXi100":
+    {
+        "Title":"孔子评传40讲",
+        "Author":"李硕",
+        "Actor":"李硕",
+        "Url":"storycdn2021/XueXiFloder/LiShuo_KongZiPingZhuan40Jiang",
+        "Size":41,
+        "Image":"xuexi100.png",
+        "MD5":"4B5285EC921A4ADB23A86BA5BDE04B84",
+        "Data":"2021-3-26"
+    },
     "XueXi99":
     {
         "Title":"风险管理课",
