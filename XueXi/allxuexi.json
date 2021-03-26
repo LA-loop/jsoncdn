@@ -1,5 +1,16 @@
 {
-    "Size":98,
+    "Size":99,
+    "XueXi99":
+    {
+        "Title":"风险管理课",
+        "Author":"张晓燕",
+        "Actor":"张晓燕",
+        "Url":"storycdn2021/XueXiFloder/ZhangXiaoYan_FengXianGuanLiKe",
+        "Size":22,
+        "Image":"xuexi99.png",
+        "MD5":"E2D44E2F3E2A6ED5511235BF215166D3",
+        "Data":"2021-3-26"
+    },
     "XueXi98":
     {
         "Title":"刑法学100讲",
