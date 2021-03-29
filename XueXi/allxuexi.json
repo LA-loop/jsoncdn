@@ -1,5 +1,16 @@
 {
-    "Size":100,
+    "Size":101,
+    "XueXi101":
+    {
+        "Title":"国际贸易争端",
+        "Author":"鞠建东",
+        "Actor":"鞠建东",
+        "Url":"storycdn2021/XueXiFloder/JuJianDong_GuoJiMaoYiZhengDuan",
+        "Size":22,
+        "Image":"xuexi101.png",
+        "MD5":"6A37DAB0E9BC9011F28F620D2E3C0ABC",
+        "Data":"2021-3-29"
+    },
     "XueXi100":
     {
         "Title":"孔子评传40讲",
