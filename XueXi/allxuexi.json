@@ -1,5 +1,16 @@
 {
-    "Size":101,
+    "Size":102,
+    "XueXi102":
+    {
+        "Title":"日知录",
+        "Author":"吴伯凡",
+        "Actor":"吴伯凡",
+        "Url":"storycdn2021/XueXiFloder/WuBoFan_RiZhiLu",
+        "Size":272,
+        "Image":"xuexi102.png",
+        "MD5":"ED745C97EAB2C048E88ADF2F258A3F9A",
+        "Data":"2021-4-2"
+    },
     "XueXi101":
     {
         "Title":"国际贸易争端",
