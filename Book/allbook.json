@@ -1,5 +1,16 @@
 {
-    "Size":35,
+    "Size":36,
+    "Book36":
+    {
+        "Title":"太古神王",
+        "Author":"净无痕",
+        "Actor":"丹羽道/曉夢/誉见",
+        "Url":"storycdn2021/BookFloder/JingWuHeng_TaiGuShenWang",
+        "Size":1158,
+        "Image":"book36.png",
+        "MD5":"EAF871B7251F3660103C62E998BC7863",
+        "Data":"2021-4-6"
+    },
     "Book35":
     {
         "Title":"庆余年",
