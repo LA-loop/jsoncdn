@@ -1,5 +1,16 @@
 {
-    "Size":119,
+    "Size":120,
+    "XueXi120":
+    {
+        "Title":"清华管理学",
+        "Author":"宁向东",
+        "Actor":"宁向东",
+        "Url":"storycdn2021/XueXiFloder/NingXiangDong_QingHuaGuanLiXue",
+        "Size":298,
+        "Image":"xuexi120.png",
+        "MD5":"CE1492EECC5B8E94FDB27DCB0A433E3F",
+        "Data":"2021-6-29"
+    },
     "XueXi119":
     {
         "Title":"精英日课(第4季)",
