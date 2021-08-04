@@ -1,5 +1,16 @@
 {
-    "Size":123,
+    "Size":124,
+    "XueXi124":
+    {
+        "Title":"新知报告",
+        "Author":"马徐骏",
+        "Actor":"马徐骏",
+        "Url":"storycdn2021/XueXiFloder/MaXuJun_XinZhiBaoGao",
+        "Size":264,
+        "Image":"xuexi124.png",
+        "MD5":"0DCE405F8767455104DE406B1EE2F0D2",
+        "Data":"2021-8-4"
+    },
     "XueXi123":
     {
         "Title":"卓老板聊科技",
