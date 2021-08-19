@@ -1,5 +1,16 @@
 {
-    "Size":124,
+    "Size":125,
+    "XueXi125":
+    {
+        "Title":"科学思维课",
+        "Author":"卓克",
+        "Actor":"卓克",
+        "Url":"storycdn2021/XueXiFloder/ZhuoKe_KeXueSiWeiKe",
+        "Size":323,
+        "Image":"xuexi125.png",
+        "MD5":"57EBC5391CBB2D9B0E8F03F96FA38E38",
+        "Data":"2021-8-19"
+    },
     "XueXi124":
     {
         "Title":"新知报告",
