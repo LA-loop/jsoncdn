@@ -1,5 +1,27 @@
 {
-    "Size":125,
+    "Size":127,
+    "XueXi127":
+    {
+        "Title":"华为数字化转型必修课",
+        "Author":"陶景文",
+        "Actor":"陶景文",
+        "Url":"storycdn2021xia/XueXiFloder/HuaWeiShuZiHuaZhuanXing",
+        "Size":23,
+        "Image":"xuexi127.png",
+        "MD5":"37C5ACC87725342985E17D7E66A98696",
+        "Data":"2021-10-23"
+    },
+    "XueXi126":
+    {
+        "Title":"硅谷来信(第3季)",
+        "Author":"吴军",
+        "Actor":"吴军",
+        "Url":"storycdn2021xia/XueXiFloder/WuJun_GuiGuLaiXin_3",
+        "Size":319,
+        "Image":"xuexi126.png",
+        "MD5":"7C87FCB1896D61593A9DC9F267C34464",
+        "Data":"2021-10-23"
+    },
     "XueXi125":
     {
         "Title":"科学思维课",
