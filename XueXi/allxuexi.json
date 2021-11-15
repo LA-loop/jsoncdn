@@ -1,5 +1,27 @@
 {
-    "Size":130,
+    "Size":132,
+    "XueXi132":
+    {
+        "Title":"元宇宙",
+        "Author":"陈序",
+        "Actor":"陈序",
+        "Url":"storycdn2021xia/XueXiFloder/ChenXu_YuanYuZhou",
+        "Size":7,
+        "Image":"xuexi132.png",
+        "MD5":"916DB28690A4E7D668EE39C4D51EC7FD",
+        "Data":"2021-11-15"
+    },
+    "XueXi131":
+    {
+        "Title":"复杂科学前沿",
+        "Author":"张江",
+        "Actor":"张江",
+        "Url":"storycdn2021xia/XueXiFloder/ZhangJiang_FuZaKeXueQianYan",
+        "Size":28,
+        "Image":"xuexi131.png",
+        "MD5":"65F1C78137D3D1504C5264EE8B4FDF69",
+        "Data":"2021-11-15"
+    },
     "XueXi130":
     {
         "Title":"讲透华为营销法",
