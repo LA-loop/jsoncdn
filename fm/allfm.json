@@ -3,56 +3,56 @@
     	{
     		"Title":"CRI环球资讯广播",
     		"Image":"fm_1.png",
-    		"Url":"https://lhttp.qingting.fm/live/1005/64k.mp3?app_id=web",
+    		"Url":"https://cnlive.cnr.cn/hls/huanqiuzixunguangbo.m3u8",
     		"MD5":"B4E068F44EFEDD6E9AF889075D293A40"
     	},
         {
             "Title":"上海新闻广播",
             "Image":"fm_10.png",
             "Url":"https://lhttp.qingting.fm/live/270/64k.mp3?app_id=web",
-            "MD5":"3AD5F21781DEC5C0297C600469E5C484"
+            "MD5":"8FA663D8DBE17E370153A54E7297A06E"
         },
     	{
     		"Title":"CNR经济之声广播",
     		"Image":"fm_2.png",
-    		"Url":"https://lhttp.qingting.fm/live/387/64k.mp3?app_id=web",
+    		"Url":"https://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
     		"MD5":"DCADD41CEEB981F03F48D5EB88FB0B93"
     	},
     	{
     		"Title":"CRI HIT FM",
     		"Image":"fm_3.png",
-    		"Url":"https://lhttp.qingting.fm/live/1007/64k.mp3?app_id=web",
+    		"Url":"https://cnlive.cnr.cn/hls/HITFM.m3u8",
     		"MD5":"94A8562285C7689E56106101F565BF7F"
     	},
     	{
     		"Title":"CNR音乐之声",
     		"Image":"fm_4.png",
-    		"Url":"https://lhttp.qingting.fm/live/388/64k.mp3?app_id=web",
-    		"MD5":"3AA8520F9B5736B1E715B7FA048B5177"
+    		"Url":"https://ngcdn003.cnr.cn/live/yyzs/index.m3u8",
+    		"MD5":"125B8B26269FDCCAC486D930AB106910"
     	},
     	{
     		"Title":"CNR文艺之声",
     		"Image":"fm_5.png",
-    		"Url":"https://lhttp.qingting.fm/live/395/64k.mp3?app_id=web",
-    		"MD5":"BFA8F9BF0D590A57261A5B7B49ADE95D"
+    		"Url":"https://ngcdn010.cnr.cn/live/wyzs/index.m3u8",
+    		"MD5":"D9508E34FD6231EF2FE9FFCD7700066E"
     	},
     	{
     		"Title":"CNR经典音乐之声",
     		"Image":"fm_6.png",
-    		"Url":"https://lhttp.qingting.fm/live/389/64k.mp3?app_id=web",
-    		"MD5":"1089B1B454A5D18178E2DDF6FAD06720"
+    		"Url":"https://ngcdn004.cnr.cn/live/dszs/index.m3u8",
+    		"MD5":"31A8EA688551F2A62D5788F519E3B2E2"
     	},
     	{
     		"Title":"CNR阅读之声",
     		"Image":"fm_7.png",
-    		"Url":"https://lhttp.qingting.fm/live/398/64k.mp3?app_id=web",
-    		"MD5":"12816628B190C7A6EC76DC651F28323B"
+    		"Url":"https://ngcdn014.cnr.cn/live/ylgb/index.m3u8",
+    		"MD5":"1B02DC9A71D0F129DD5EF147515E70A5"
     	},
     	{
     		"Title":"浙江城市之声",
     		"Image":"fm_8.png",
-    		"Url":"https://lhttp.qingting.fm/live/4523/64k.mp3?app_id=web",
-    		"MD5":"9B9739A9997456E386E2DAD10D5580A9"
+    		"Url":"https://live.ximalaya.com/radio-first-page-app/live/638/64.m3u8?transcode=ts",
+    		"MD5":"C2513618A6A06261CD6CECF2DB5D12B6"
     	},
     	{
     		"Title":"上海第一财经广播",
