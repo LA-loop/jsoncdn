@@ -1,5 +1,16 @@
 {
-    "Size":36,
+    "Size":37,
+    "Book37":
+    {
+        "Title":"残袍",
+        "Author":"风御九秋",
+        "Actor":"北方/赵逸",
+        "Url":"storycdn2021xia/BookFloder/FengYuJiuQiu_CanPao",
+        "Size":527,
+        "Image":"book37.png",
+        "MD5":"C9C8789A1F651A38D68DC6E9B245EADA",
+        "Data":"2022-10-13"
+    },
     "Book36":
     {
         "Title":"太古神王",
