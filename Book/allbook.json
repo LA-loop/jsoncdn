@@ -1,5 +1,16 @@
 {
-    "Size":37,
+    "Size":38,
+    "Book38":
+    {
+        "Title":"周德东恐怖故事集(第1季)",
+        "Author":"周德东",
+        "Actor":"紫襟",
+        "Url":"storycdn2021xia/BookFloder/ZhouDeDong_KongBuGuShi",
+        "Size":254,
+        "Image":"book38.png",
+        "MD5":"4E426E8A046DC59CCF62E93ABCBE5CE3",
+        "Data":"2022-10-14"
+    },
     "Book37":
     {
         "Title":"残袍",
