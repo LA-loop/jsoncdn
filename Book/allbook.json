@@ -1,5 +1,16 @@
 {
-    "Size":40,
+    "Size":41,
+    "Book41":
+    {
+        "Title":"升仙传",
+        "Author":"倚云氏",
+        "Actor":"李庆丰",
+        "Url":"storycdn2021xia/BookFloder/YiYunShi_ShengXianZhuan",
+        "Size":56,
+        "Image":"book41.png",
+        "MD5":"DD0906311EF82E0E0F4414A3AEE10960",
+        "Data":"2022-10-16"
+    },
     "Book40":
     {
         "Title":"岳飞传",
