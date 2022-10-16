@@ -1,5 +1,16 @@
 {
-    "Size":41,
+    "Size":42,
+    "Book42":
+    {
+        "Title":"隋唐演义",
+        "Author":"褚人荻",
+        "Actor":"李庆丰",
+        "Url":"storycdn2021xia/BookFloder/ChuRenDi_SuiTangYanYi",
+        "Size":558,
+        "Image":"book42.png",
+        "MD5":"FA2DBCAEC2B0CDA07951FDDE2F18B041",
+        "Data":"2022-10-16"
+    },
     "Book41":
     {
         "Title":"升仙传",
