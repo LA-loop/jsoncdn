@@ -1,5 +1,16 @@
 {
-    "Size":39,
+    "Size":40,
+    "Book40":
+    {
+        "Title":"岳飞传",
+        "Author":"还珠楼主",
+        "Actor":"李庆丰",
+        "Url":"storycdn2021xia/BookFloder/HuanZhuLouZhu_YueFeiZhuan",
+        "Size":162,
+        "Image":"book40.png",
+        "MD5":"D4B7595F149C533F4D163BB9B72E729D",
+        "Data":"2022-10-16"
+    },
     "Book39":
     {
         "Title":"天命赊刀人",
