@@ -1,5 +1,27 @@
 {
-    "Size":42,
+    "Size":44,
+    "Book44":
+    {
+        "Title":"全息陨落",
+        "Author":"赖尔",
+        "Actor":"布兰德",
+        "Url":"storycdn2021xia/BookFloder/LaiEr_QuanXiYunLuo",
+        "Size":102,
+        "Image":"book44.png",
+        "MD5":"E6E124FAD013E7167D2D217B4B046A81",
+        "Data":"2022-11-15"
+    },
+    "Book43":
+    {
+        "Title":"纸牌屋",
+        "Author":"迈克尔·道布斯",
+        "Actor":"骤雨惊弦",
+        "Url":"storycdn2021xia/BookFloder/MichaelDobbs_ZhiPaiWu",
+        "Size":60,
+        "Image":"book43.png",
+        "MD5":"DD1477AE192CA963597564B3B3F1A916",
+        "Data":"2022-11-15"
+    },
     "Book42":
     {
         "Title":"隋唐演义",
