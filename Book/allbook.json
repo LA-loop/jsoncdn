@@ -1,5 +1,16 @@
 {
-    "Size":44,
+    "Size":45,
+    "Book45":
+    {
+        "Title":"枪爷异闻录",
+        "Author":"转轮手枪",
+        "Actor":"声之优",
+        "Url":"storycdn2021xia/BookFloder/ZhuanLunShouQiang_QiangYeYiWenLu",
+        "Size":138,
+        "Image":"book45.png",
+        "MD5":"08025821B924F7285B27ADEE68B1EFAD",
+        "Data":"2022-12-12"
+    },
     "Book44":
     {
         "Title":"全息陨落",
