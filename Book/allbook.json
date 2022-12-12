@@ -1,5 +1,16 @@
 {
-    "Size":45,
+    "Size":46,
+    "Book46":
+    {
+        "Title":"盗墓往事",
+        "Author":"玉松鼠",
+        "Actor":"夜书墨",
+        "Url":"storycdn2021xia/BookFloder/YuSongShu_DaoMuWangShi",
+        "Size":261,
+        "Image":"book46.png",
+        "MD5":"602D36C167021504C7EBB4E3D1DA149B",
+        "Data":"2022-12-12"
+    },
     "Book45":
     {
         "Title":"枪爷异闻录",
