@@ -1,5 +1,27 @@
 {
-    "Size":165,
+    "Size":167,
+    "XueXi167":
+    {
+        "Title":"讲透资治通鉴(第3季)",
+        "Author":"熊逸",
+        "Actor":"熊逸",
+        "Url":"storycdn2023/XueXiFloder/XiongYi_JiangTouZiZhiTongJian_3",
+        "Size":289,
+        "Image":"xuexi167.png",
+        "MD5":"DAC80AAB220DF67F931CBC969FBD9EE6",
+        "Data":"2023-11-18"
+    },
+    "XueXi166":
+    {
+        "Title":"心理学通识",
+        "Author":"李松蔚",
+        "Actor":"李松蔚",
+        "Url":"storycdn2023/XueXiFloder/LiSongWei_XinLiXueTongShi",
+        "Size":253,
+        "Image":"xuexi166.png",
+        "MD5":"512A3A1A3CF226050013171939D63A0A",
+        "Data":"2023-11-18"
+    },
     "XueXi165":
     {
         "Title":"国学课(第1季)",
@@ -255,7 +277,7 @@
     },
     "XueXi142":
     {
-        "Title":"透资治通鉴(第2季)",
+        "Title":"讲透资治通鉴(第2季)",
         "Author":"熊逸",
         "Actor":"熊逸",
         "Url":"storycdn2021xia/XueXiFloder/XiongYi_JiangTouZiZhiTongJian_2",
@@ -684,7 +706,7 @@
     },
     "XueXi103":
     {
-        "Title":"透资治通鉴(第1季)",
+        "Title":"讲透资治通鉴(第1季)",
         "Author":"熊逸",
         "Actor":"熊逸",
         "Url":"storycdn2021/XueXiFloder/XiongYi_JiangTouZiZhiTongJian_1",
