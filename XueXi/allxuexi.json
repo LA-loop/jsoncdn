@@ -1,5 +1,38 @@
 {
-    "Size":171,
+    "Size":174,
+    "XueXi174":
+    {
+        "Title":"全球智库报告(第4季)",
+        "Author":"徐弃郁",
+        "Actor":"徐弃郁",
+        "Url":"storycdn2023/XueXiFloder/XuQiYu_QuanQiuZhiKuBaoGao_4",
+        "Size":65,
+        "Image":"xuexi174.png",
+        "MD5":"FF0FBAF6C87ACDE9B8423E4EB4F6B50D",
+        "Data":"2023-12-31"
+    },
+    "XueXi173":
+    {
+        "Title":"全球智库报告(第3季)",
+        "Author":"徐弃郁",
+        "Actor":"徐弃郁",
+        "Url":"storycdn2023/XueXiFloder/XuQiYu_QuanQiuZhiKuBaoGao_3",
+        "Size":65,
+        "Image":"xuexi173.png",
+        "MD5":"F9E8170122A81321679D88F02137BD8B",
+        "Data":"2023-12-31"
+    },
+    "XueXi172":
+    {
+        "Title":"全球智库报告(第2季)",
+        "Author":"徐弃郁",
+        "Actor":"徐弃郁",
+        "Url":"storycdn2023/XueXiFloder/XuQiYu_QuanQiuZhiKuBaoGao_2",
+        "Size":36,
+        "Image":"xuexi172.png",
+        "MD5":"1E357D05F528318CFEAA58F208EA9F1D",
+        "Data":"2023-12-31"
+    },
     "XueXi171":
     {
         "Title":"顾衡讲好书",
