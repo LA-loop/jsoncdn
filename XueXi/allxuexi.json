@@ -1,5 +1,27 @@
 {
-    "Size":177,
+    "Size":179,
+    "XueXi179":
+    {
+        "Title":"安神晚课",
+        "Author":"周之江",
+        "Actor":"周之江",
+        "Url":"storycdn2024/XueXiFloder/ZhouZhiJiang_AnShenWanKe",
+        "Size":366,
+        "Image":"xuexi179.png",
+        "MD5":"723FCB825D81F1AEBAB828D602D64A31",
+        "Data":"2024-3-9"
+    },
+    "XueXi178":
+    {
+        "Title":"大国简史·俄罗斯篇",
+        "Author":"徐弃郁",
+        "Actor":"徐弃郁",
+        "Url":"storycdn2024/XueXiFloder/XuQiYu_DaGuoJianShi_ELuoSi",
+        "Size":31,
+        "Image":"xuexi178.png",
+        "MD5":"0AFD9DCDEF6EB64E74219734387CBBD7",
+        "Data":"2024-3-9"
+    },
     "XueXi177":
     {
         "Title":"文化参考(第3季)",
