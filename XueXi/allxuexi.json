@@ -1,5 +1,16 @@
 {
-    "Size":179,
+    "Size":180,
+    "XueXi180":
+    {
+        "Title":"逻辑思维训练",
+        "Author":"吴军",
+        "Actor":"吴军",
+        "Url":"storycdn2024/XueXiFloder/WuJun_LuoJiSiWeiXunLian",
+        "Size":62,
+        "Image":"xuexi180.png",
+        "MD5":"B3DD11E75FA257AA9D882A1618A55750",
+        "Data":"2024-6-15"
+    },
     "XueXi179":
     {
         "Title":"安神晚课",
