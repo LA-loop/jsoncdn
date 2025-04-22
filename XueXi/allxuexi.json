@@ -1,5 +1,15 @@
 {
-    "Size":185,
+    "Size":186,
+	"XueXi186": {
+		"Title": "大国简史·日本篇",
+		"Author": "徐弃郁",
+		"Actor": "徐弃郁",
+		"Url": "storycdn2025/XueXiFloder/XuQiYu_DaGuoJianShi_RiBen",
+		"Size": 31,
+		"Image": "xuexi186.png",
+		"MD5": "9CF5C04B02A0D3E145AAB59B90E1E561",
+		"Data": "2025-04-22"
+	},
     "XueXi185": 
     {
         "Title": "讲透资治通鉴(第4季)",
