@@ -1,5 +1,25 @@
 {
-    "Size":188,
+    "Size":190,
+	"XueXi190": {
+		"Title": "金刚经50讲",
+		"Author": "王路",
+		"Actor": "王路",
+		"Url": "storycdn2025/XueXiFloder/WangLu_JinGangJing50Jiang",
+		"Size": 57,
+		"Image": "xuexi190.png",
+		"MD5": "CF20E52BBA2E6F2F64AD42D3DE3884DF",
+		"Data": "2025-10-28"
+	 }
+	"XueXi189": {
+		"Title": "决策算法100讲",
+		"Author": "老喻",
+		"Actor": "老喻",
+		"Url": "storycdn2025/XueXiFloder/LaoYu_JueCeSuanFa100Jiang",
+		"Size": 106,
+		"Image": "xuexi189.png",
+		"MD5": "838E2A2D371559AB5A86A0D853EC3F07",
+		"Data": "2025-10-28"
+	},
 	"XueXi188":
     {
         "Title":"精英日课(第6季)",
