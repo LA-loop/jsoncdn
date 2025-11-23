@@ -1,6 +1,29 @@
 {
-    "Size":190,
-	"XueXi190": {
+    "Size":192,
+    "XueXi192": 
+	{
+		"Title": "医学文明300讲",
+		"Author": "孙轶飞",
+		"Actor": "孙轶飞",
+		"Url": "storycdn2025/XueXiFloder/SunYiFei_YiXueWenMing300Jiang",
+		"Size": 301,
+		"Image": "xuexi192.png",
+		"MD5": "B069B7925F367F03034B40C93FC4EEAB",
+		"Data": "2025-11-23"
+    },
+	"XueXi191": 
+	{
+		"Title": "吴军来信2",
+		"Author": "吴军",
+		"Actor": "吴军",
+		"Url": "storycdn2025/XueXiFloder/WuJun_LaiXin_2",
+		"Size": 316,
+		"Image": "xuexi191.png",
+		"MD5": "338491EA3B2BBC5F8AEDA181701F3652",
+		"Data": "2025-11-23"
+	},
+	"XueXi190": 
+	{
 		"Title": "金刚经50讲",
 		"Author": "王路",
 		"Actor": "王路",
@@ -9,8 +32,9 @@
 		"Image": "xuexi190.png",
 		"MD5": "CF20E52BBA2E6F2F64AD42D3DE3884DF",
 		"Data": "2025-10-28"
-	 }
-	"XueXi189": {
+	},
+	"XueXi189": 
+	{
 		"Title": "决策算法100讲",
 		"Author": "老喻",
 		"Actor": "老喻",
@@ -31,7 +55,8 @@
         "MD5":"B88E9312CE4D77E4474ABC16590E10CD",
         "Data":"2025-07-05"
     },
-	"XueXi187": {
+	"XueXi187": 
+	{
 		"Title": "关系攻略2",
 		"Author": "熊太行",
 		"Actor": "熊太行",
@@ -41,7 +66,8 @@
 		"MD5": "96B56D7873F1FF226AB9603FE0EC1D94",
 		"Data": "2025-07-05"
 	},
-	"XueXi186": {
+	"XueXi186": 
+	{
 		"Title": "大国简史·日本篇",
 		"Author": "徐弃郁",
 		"Actor": "徐弃郁",
