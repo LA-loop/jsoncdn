@@ -1,5 +1,16 @@
 {
-    "Size":192,
+    "Size":193,
+	"XueXi193": 
+	{
+		"Title": "教育的方法50讲",
+		"Author": "吴军",
+		"Actor": "吴军",
+		"Url": "storycdn2025/XueXiFloder/WuJun_JiaoYuDeFangFa",
+		"Size": 62,
+		"Image": "xuexi193.png",
+		"MD5": "ACF658D6E4D4D86E7381FEB4053B1846",
+		"Data": "2026-03-03"
+	},
     "XueXi192": 
 	{
 		"Title": "医学文明300讲",
