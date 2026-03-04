@@ -1,5 +1,15 @@
 {
-    "Size":193,
+    "Size":194,
+	"XueXi194": {
+		"Title": "科技参考(第4季)",
+		"Author": "卓克",
+		"Actor": "卓克",
+		"Url": "storycdn2026/XueXiFloder/ZhuoKe_KeJiCanKao_4",
+		"Size": 319,
+		"Image": "xuexi194.png",
+		"MD5": "645024479D6D6CF39FBF39A9405C7D76",
+		"Data": "2026-03-04"
+	},
 	"XueXi193": 
 	{
 		"Title": "教育的方法50讲",
