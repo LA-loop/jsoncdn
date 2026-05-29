@@ -1,5 +1,25 @@
 {
-    "Size":194,
+    "Size":196,
+	"XueXi196": {
+		"Title": "讲透资治通鉴(第5季)",
+		"Author": "熊逸",
+		"Actor": "熊逸",
+		"Url": "storycdn2026/XueXiFloder/XiongYi_JiangTouZiZhiTongJian_5",
+		"Size": 289,
+		"Image": "xuexi196.png",
+		"MD5": "A323CF1C3EABB46D40BB37980C3B5FF4",
+		"Data": "2026-05-29"
+	},
+	"XueXi195": {
+		"Title": "商业参考(第4季)",
+		"Author": "蔡钰",
+		"Actor": "蔡钰",
+		"Url": "storycdn2026/XueXiFloder/CaiYu_ShangYeCanKao_4",
+		"Size": 261,
+		"Image": "xuexi195.png",
+		"MD5": "F2CEFC98D80154C80A63535931196D10",
+		"Data": "2026-05-29"
+	},
 	"XueXi194": {
 		"Title": "科技参考(第4季)",
 		"Author": "卓克",
