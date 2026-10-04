@@ -1,5 +1,35 @@
 {
-    "Size":196,
+    "Size":199,
+	"XueXi199": {
+		"Title": "中国史",
+		"Author": "刘勃",
+		"Actor": "刘勃",
+		"Url": "storycdn2026/XueXiFloder/LiuBo_ZhongGuoShi",
+		"Size": 328,
+		"Image": "xuexi199.png",
+		"MD5": "A35361F5A227E81523EA8E24248C38E1",
+		"Data": "2026-10-04"
+	},
+	"XueXi198": {
+		"Title": "现代思维工具",
+		"Author": "万维钢",
+		"Actor": "万维钢",
+		"Url": "storycdn2026/XueXiFloder/WanWeiGang_XianDaiSiWeiGongJu",
+		"Size": 121,
+		"Image": "xuexi198.png",
+		"MD5": "A288413047EA9141036471A4FECFFEF6",
+		"Data": "2026-10-04"
+	},
+	"XueXi197": {
+		"Title": "财商训练40讲",
+		"Author": "吴军",
+		"Actor": "吴军",
+		"Url": "storycdn2026/XueXiFloder/WuJun_CaiShangXunLian40Jiang",
+		"Size": 51,
+		"Image": "xuexi197.png",
+		"MD5": "F0669BDDED3FC2BEC1C814728FA2F9F2",
+		"Data": "2026-10-04"
+	},
 	"XueXi196": {
 		"Title": "讲透资治通鉴(第5季)",
 		"Author": "熊逸",
